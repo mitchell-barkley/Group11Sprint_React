@@ -14,7 +14,9 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://github.com/mitchell-barkley/Group11Sprint_React/images/rohan-g-mwNJswDIXE-unsplash.jpg");
+  background-size: "cover";
+  background-repeat: no-repeat;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
